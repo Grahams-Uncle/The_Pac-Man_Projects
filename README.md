@@ -1,1 +1,2 @@
 # The_Pac-Man_Projects
+A series of Artificial Intelligence projects designed by UC Berkeley to develop game agents for Pacman. I used Python to implement searching algorithms, reinforcement learning algorithms, and the hidden Markov model for a Pacman AI that can make decisions to maximize the game score. Analyzed and compared the efficiency and game scores of Pacman AI that use different algorithms.

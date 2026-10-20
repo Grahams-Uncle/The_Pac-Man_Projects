@@ -1,0 +1,12 @@
+---
+:id: 109824301
+:submitters:
+- :name: Xinchang Xiong
+  :email: xx108@duke.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-02-07 23:14:04.949900000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-02-07 15:14:04.949900000 Z
+:status: processed
+:score: 26.0
